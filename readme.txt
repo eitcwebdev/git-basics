@@ -1,1 +1,4 @@
-This is the readme file. This repo is a Wisdom Pet Medicine site. It is a repo to help us learn Git.
+
+Git Basic - Readme.txt
+
+I'm learning the basics of Git and GitHub, so this repo is for testing.
